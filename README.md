@@ -5,10 +5,6 @@
 
 Crypto Checker is a small cross-platform app I built for tracking cryptocurrencies.
 It’s one of my first real projects, so I hope you enjoy using it! I’ve tested it a lot, but if you find any bugs or want new features, feel free to open an issue.
-
-👉 **[Screenshots](https://imgur.com/a/XpPJs)**
-👉 **[Download the app](https://github.com/Johandrex/crypto-checker/releases)**
-
 ---
 
 ## **✨ Features**
